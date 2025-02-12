@@ -41,7 +41,7 @@ export const OurResults = () => {
             Excellent company quality services
           </p>
           <p className="text-sm font-semibold text-black">
-            Today, Primex Logistics successfully cooperates with 70+ companies
+            Today, Logitex successfully cooperates with 70+ companies
             and serves more than 1000 trucks in ELD (Electronic Logging Device),
             more than 300 Safety trucks, and also, having opened a new direction
             — Dispatch this year 2022, the company already provides these

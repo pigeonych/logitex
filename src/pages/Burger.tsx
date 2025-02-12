@@ -51,7 +51,7 @@ const Burger = () => {
         vertical
       >
         <div className="flex justify-between items-center p-4 burger:hidden">
-          <div className="text-lg font-bold">Primex Services</div>
+          <div className="text-lg font-bold">Logitex</div>
           <button
             onClick={handleDrawerToggle}
             className="text-gray-400 hover:text-black focus:outline-none"
@@ -151,20 +151,20 @@ const Burger = () => {
           <Flex className="text-black flex-col tablet:flex-row font-medium gap-x-14">
             <a
               type={"phone"}
-              href={"tel:+18182863636"}
+              href={"tel:+19299988682"}
               className={"flex align-middle gap-x-1"}
             >
               <PhoneOutlined />
-              +1 (818) 286-36-36
+              +1 (929) 998-86-82
             </a>
-            <a
-              type={"phone"}
-              href={"tel:+12057292332"}
-              className={"flex align-middle gap-x-1"}
-            >
-              <PhoneOutlined />
-              +1 (205) 729-23-32
-            </a>
+            {/*<a*/}
+            {/*  type={"phone"}*/}
+            {/*  href={"tel:+12057292332"}*/}
+            {/*  className={"flex align-middle gap-x-1"}*/}
+            {/*>*/}
+            {/*  <PhoneOutlined />*/}
+            {/*  +1 (205) 729-23-32*/}
+            {/*</a>*/}
           </Flex>
         </Flex>
       </Flex>

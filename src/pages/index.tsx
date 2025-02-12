@@ -32,7 +32,7 @@ const Layout: React.FC = () => {
           <Flex vertical className={"w-2/3"} gap={40}>
             <Flex className={"w-full"} justify={"space-between"}>
               <Flex align={"center"} gap={4}>
-                <img src="/logo-white.png" alt="Logo" className="max-h-16" />
+                <img src="/logo_logitex.png" alt="Logo" className="max-h-16" />
               </Flex>
               <Button type="primary" className={"subzero:hidden burger:flex"}>
                 <Link
@@ -109,20 +109,20 @@ const Layout: React.FC = () => {
                 <Flex vertical className="text-white font-medium" gap={5}>
                   <a
                     type={"phone"}
-                    href={"tel:+18182863636"}
+                    href={"tel:+19299988682"}
                     className={"flex align-middle gap-x-1"}
                   >
                     <PhoneOutlined />
-                    +1 (818) 286-36-36
+                    +1 (929) 998-86-82
                   </a>
-                  <a
-                    type={"phone"}
-                    href={"tel:+12057292332"}
-                    className={"flex align-middle gap-x-1"}
-                  >
-                    <PhoneOutlined />
-                    +1 (205) 729-23-32
-                  </a>
+                  {/*<a*/}
+                  {/*  type={"phone"}*/}
+                  {/*  href={"tel:+12057292332"}*/}
+                  {/*  className={"flex align-middle gap-x-1"}*/}
+                  {/*>*/}
+                  {/*  <PhoneOutlined />*/}
+                  {/*  +1 (205) 729-23-32*/}
+                  {/*</a>*/}
                 </Flex>
               </Flex>
             </Flex>
@@ -137,14 +137,13 @@ const Layout: React.FC = () => {
         <Flex className={"gap-x-12 laptop:gap-x-24"}>
           <Flex vertical className={"text-white"} gap={20}>
             <Flex gap={20}>
-              <img src="/logo-white.png" alt="Logo" className={"max-h-16"} />
+              <img src="/logo_logitex.png" alt="Logo" className={"max-h-16"} />
             </Flex>
             <p className={"opacity-90 text-lg max-w-sm text-white"}>
               Reliable, quality and efficient service for your company.
             </p>
             <p className={"opacity-50 text-white"}>
-              All rights reserved &copy; {new Date().getFullYear()} Primex
-              Services
+              All rights reserved &copy; {new Date().getFullYear()} Logitex
             </p>
           </Flex>
           <Flex
@@ -181,7 +180,7 @@ const Layout: React.FC = () => {
               <a
                 target="_blank"
                 rel="noopener noreferrer"
-                href="https://t.me/PrimexServices"
+                href="#"
                 className="hover-enlarge"
               >
                 <svg width="32" height="32" viewBox="0 0 32 32" fill="none">
@@ -194,7 +193,7 @@ const Layout: React.FC = () => {
               <a
                 target="_blank"
                 rel="noopener noreferrer"
-                href="https://www.instagram.com/Primex_Services_llc/"
+                href="#"
                 className="hover-enlarge"
               >
                 <svg width="32" height="32" viewBox="0 0 32 32" fill="none">

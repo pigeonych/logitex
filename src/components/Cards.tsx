@@ -39,7 +39,7 @@ const Cards = () => {
         <Card
           title={"Audit"}
           description={
-            "Audit is an essential part of logistics. Time to time all the companies need to check their history, activities and completed drives in order to assure the accuracy of work and financial statements. Since the Primex Services was found, we successfully conducted audit for more than 100 trucks."
+            "Audit is an essential part of logistics. Time to time all the companies need to check their history, activities and completed drives in order to assure the accuracy of work and financial statements. Since the Logitex was found, we successfully conducted audit for more than 100 trucks."
           }
           image={AuditIcon}
         />

@@ -12,10 +12,10 @@ const AboutUs = () => {
       >
         <Flex vertical gap={30} className={"text-start"}>
           <h1 className={"text-primary text-4xl font-semibold"}>
-            Primex Services
+            Logitex
           </h1>
           <p className={"text-black"}>
-            Primex Services — a company providing logistics services such as
+            Logitex — a company providing logistics services such as
             ELD, Safety, Audit. The company was found due to the needs of many
             companies and truck drivers for quality and timely ELD service.
             Thus, in two years of work, the company has grown to 300 trucks.

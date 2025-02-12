@@ -35,7 +35,7 @@ function App() {
       }}
     >
       <Router>
-        <Welcome />
+        {/*<Welcome />*/}
         <Routes>
           <Route path="/" element={<Layout />}>
             <Route index element={<Home />} />

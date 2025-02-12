@@ -43,7 +43,7 @@ const Services = () => {
           <p>
             If you are an independent truck driver or a company owner you will
             definitely need a high quality services in Electronic Logging
-            Device. Primex Services is here to help you! We have been
+            Device. Logitex is here to help you! We have been
             successfully providing services on ELD for several years and the
             number of vehicles served by our company has overcame the 300 number
             so far. Our ELDs ensure the safety and compliance of your commercial
@@ -65,7 +65,7 @@ const Services = () => {
             Dispatch Services
           </h1>
           <p>
-            Dispatch services — is a new field of Primex Services. Dispatchers
+            Dispatch services — is a new field of Logitex. Dispatchers
             are responsible for operating and properly controlling the working
             process in logistics always keeping in touch with drivers and
             customers 24/7. Our team will help you to find the suitable freight,

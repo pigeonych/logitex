@@ -10,7 +10,7 @@ export const HomeForm = () => {
     >
       <Flex vertical className={"py-10 desktop:max-w-lg w-full px-10"} gap={20}>
         <h1 className="text-4xl font-bold text-primary">
-          Primex Services is waiting for You!
+          Logitex is waiting for You!
         </h1>
         <p className="text-lg">
           It's simple! If you: <br />— Know English and Russian languages <br />
@@ -22,12 +22,12 @@ export const HomeForm = () => {
           <a
             onClick={() => {
               void navigator.clipboard.writeText(
-                "management@primex-services.us",
+                "info@logitex.us",
               );
               void message.success("Email copied to clipboard");
             }}
           >
-            management@primex-services.us{" "}
+            info@logitex.us{" "}
           </a>
         </Flex>
         <p className={"text-xl text-primary"}>
